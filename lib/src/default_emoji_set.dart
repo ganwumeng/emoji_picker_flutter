@@ -1635,7 +1635,6 @@ const List<CategoryEmoji> defaultEmojiSet = [
     Emoji('🇹🇷', 'Flag: Turkey'),
     Emoji('🇹🇹', 'Flag: Trinidad & Tobago'),
     Emoji('🇹🇻', 'Flag: Tuvalu'),
-    Emoji('🇹🇼', 'Flag: Taiwan'),
     Emoji('🇹🇿', 'Flag: Tanzania'),
     Emoji('🇺🇦', 'Flag: Ukraine'),
     Emoji('🇺🇬', 'Flag: Uganda'),
