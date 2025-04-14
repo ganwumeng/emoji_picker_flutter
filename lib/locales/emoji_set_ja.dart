@@ -6040,10 +6040,6 @@ const List<CategoryEmoji> emojiSetJapanese = [
       'Flag: Tuvalu',
     ),
     Emoji(
-      '🇹🇼',
-      'Flag: Taiwan',
-    ),
-    Emoji(
       '🇹🇿',
       'Flag: Tanzania',
     ),
