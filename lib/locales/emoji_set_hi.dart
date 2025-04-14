@@ -6154,10 +6154,6 @@ const List<CategoryEmoji> emojiSetHindi = [
       'Flag: Tuvalu',
     ),
     Emoji(
-      '🇹🇼',
-      'Flag: Taiwan',
-    ),
-    Emoji(
       '🇹🇿',
       'Flag: Tanzania',
     ),
