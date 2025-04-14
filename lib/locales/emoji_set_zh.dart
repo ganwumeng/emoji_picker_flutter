@@ -6010,10 +6010,6 @@ const List<CategoryEmoji> emojiSetChinese = [
       'Flag: Tuvalu',
     ),
     Emoji(
-      '🇹🇼',
-      'Flag: Taiwan',
-    ),
-    Emoji(
       '🇹🇿',
       'Flag: Tanzania',
     ),
